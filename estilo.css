@@ -1,0 +1,44 @@
+.divs
+{
+    border:solid; 
+    height: 50%;
+    width: 20%;
+    display:inline-block;
+}
+.figure
+{
+    display: inline-block;
+}
+.fundo
+{ 
+    background-color: rgb(141, 203, 234);
+}
+
+.font
+{
+    font-size: 23px;
+    font-display: inline;
+    text-align: center;
+    color: rgb(222, 62, 107);
+    font-family: unset;
+}
+.img
+{
+    height: 280px;
+    width: 240px 
+}
+
+.logo
+{
+    height: 200px; 
+    width: 400px; 
+    display: block;
+    margin:0 auto;
+}
+
+.img:hover
+
+{   
+    height: 290px;
+    width: 250px 
+}
